@@ -2,6 +2,6 @@
 ## ФИО
 Тумуров Очир Аюрович
 ## Возраст 
-31 год 
+32 год 
 ## Фото
-![фото](C:\Users\Очир\Desktop\img/images.jpg) 
+![фото](C:\Users\User\Desktop\нетология\img.jpg) 
